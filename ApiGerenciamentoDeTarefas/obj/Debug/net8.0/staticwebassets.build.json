@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FU9FROfHi4qCRPSk5dT9WBSIoxFgoBMBAto1uHlw8H0=",
+  "Source": "ApiGerenciamentoDeTarefas",
+  "BasePath": "_content/ApiGerenciamentoDeTarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
